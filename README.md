@@ -1,4 +1,4 @@
 # Healet
 Best Jewellery
 Collection
-<p>New Collectionq</p>
+<p>New Collection</p>
