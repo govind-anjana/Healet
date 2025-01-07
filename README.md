@@ -1,3 +1,3 @@
-# Healet-
+# Healet
 Best Jewellery
 Collection
